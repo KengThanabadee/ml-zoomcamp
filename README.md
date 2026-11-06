@@ -9,6 +9,6 @@ My notebooks and homework from [ML Zoomcamp](https://github.com/DataTalksClub/ma
 | [03-classification](03-classification) | Customer churn prediction | EDA, feature importance (churn rate, risk ratio, mutual information, correlation), one-hot encoding, logistic regression with scikit-learn, model interpretation |
 | [04-evaluation](04-evaluation) | Evaluating the churn model | Accuracy vs a dummy baseline, confusion table, precision and recall, ROC curves and AUC, K-fold cross-validation |
 
-Each folder has `nb.ipynb` (following the lessons) and `HW*.ipynb` (homework, solved on my own).
+Each folder has my lesson notebooks (`nb.ipynb`, or one notebook per topic in `01-intro`) and `HW*.ipynb` (homework, solved on my own).
 
 Tools: Python, NumPy, pandas, scikit-learn, Matplotlib, seaborn, Jupyter.
